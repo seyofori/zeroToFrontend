@@ -1,0 +1,23 @@
+most recent lesson: https://www.w3schools.com/html/html_attributes.asp
+
+Assignment for the class
+
+1. How many different kinds of html headings exist?
+
+2. What is an html attribute?
+
+3. What is the purpose of the alt attribute in an img tag?
+
+4. What is the difference between an absolute url and a relative url?
+
+5. List 7 html tags (h1 - h6 not included)
+
+6. What is an ‘empty’ html element? Give 2 examples
+
+7. What is the difference between the way the browser renders the <P> tag, and the way the browser renders the <p> tag?
+
+8. What is the current, most recent version of html?
+
+9. What is the root html element of every html page?
+
+10. What is the difference between viewing the html source, and inspecting an html element?
