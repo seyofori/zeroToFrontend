@@ -1,5 +1,7 @@
 most recent lesson: https://www.w3schools.com/html/html_attributes.asp
 
+the twist; answers should be presented in an html file. questions should be in h2, and answers should be in paragraph tags.
+
 Assignment for the class
 
 1. How many different kinds of html headings exist?
