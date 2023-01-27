@@ -1,0 +1,54 @@
+Current lesson: https://www.w3schools.com/html/html_paragraphs.asp
+
+<!doctype html>
+Pre tag ✅
+Br tag ✅
+Hr tag ✅
+The fact that extra spaces added into the  page are ignored ✅
+P tag ✅
+Style attribute, with the font-size 
+H1 - h6 ✅
+Margins around h tags and p tags ✅
+Fact that p tags can’t contain nested h1 / p tags ✅
+Attributes ✅
+Anchor tag, with the href ✅
+Title attribute ✅
+Image tag ✅
+Title tag ✅
+Absolute and relative urls. ✅
+Image width and height attributes ✅
+Image alt attribute ✅
+Text color property ✅
+Html lang attribute ✅
+Always have quotes around attribute values ✅
+
+“ Title tag: week 2 assignment
+“ Confirm that the html tag has the lang attribute
+
+H1
+“ Fontsize of this heading should be 60px
+“ Every heading has a title tag
+“ Image has title tag, alt tag
+
+H2
+Img, with alt attribute
+
+H3
+Paragraph. Text color blue. The paragraph should have line breaks within it
+
+Hr 
+
+H2
+Img. width: 300px, relative url
+
+H3 
+Pre tag
+
+Hr 
+
+
+H2
+Img, absolute url
+
+H3 
+Anchor tag pointing to a second html page, relative url
